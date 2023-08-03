@@ -1,0 +1,9 @@
+Quiz Buzzer - 4 buttons that when you click them you can hear a different sound.
+
+E-Library - You can login in and you can put in the title of a book and check out the book to read it, you can then return the book.
+
+ISS_Tracker - There is a home screen where you can acces two other screens, 1: a picture of the earth with info and an icon about where the ISS is currently and 2: you can see 5 meteors ranked by threat level (How close they'll get to the earth, ect.).
+
+Story Telling App - A screen where you can log in or you can sign on a new user, a home screen where you can look at different storys, a screen where you can create and post new storys, a prophile screen with a light and dark more swtich, a logout screen, and 3 different navigations to get to them.
+
+Monkey Chunky - Text to speech, where you put in a word and it will pronounce the word.
